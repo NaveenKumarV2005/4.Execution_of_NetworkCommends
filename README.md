@@ -26,7 +26,26 @@ This commands includes
 • Other IP Commands e.g. show ip route etc.
 <BR>
 
+## Program
+## 4a.Simulating PING command 
+<img width="363" alt="client" src="https://github.com/NaveenKumarV2005/4.Execution_of_NetworkCommends/assets/151476286/d0f55807-781f-4161-aedf-56e6049b759b">
+
+## 4b.Simulating TRACEROUTE
+## server
+<img width="427" alt="server" src="https://github.com/NaveenKumarV2005/4.Execution_of_NetworkCommends/assets/151476286/a9165961-9b95-4229-afd4-1eb97f5c8059">
+
+## client
+<img width="363" alt="client" src="https://github.com/NaveenKumarV2005/4.Execution_of_NetworkCommends/assets/151476286/e2544b0b-c27f-4af7-909d-2854a82796b6">
+
 ## Output
+## 4a.Simulating PING command 
+
+## 4b.Simulating TRACEROUTE
+## server
+<img width="410" alt="outserver" src="https://github.com/NaveenKumarV2005/4.Execution_of_NetworkCommends/assets/151476286/08d82512-b6c1-4b4c-b5b1-a6f17048c8b3">
+
+## client
+<img width="379" alt="expclient" src="https://github.com/NaveenKumarV2005/4.Execution_of_NetworkCommends/assets/151476286/37901310-74d1-4fc3-af8a-085f406a7145">
 
 ## Result
 Thus Execution of Network commands Performed 
