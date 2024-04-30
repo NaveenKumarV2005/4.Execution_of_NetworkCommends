@@ -28,24 +28,25 @@ This commands includes
 
 ## Program
 ## 4a.Simulating PING command 
-<img width="363" alt="client" src="https://github.com/NaveenKumarV2005/4.Execution_of_NetworkCommends/assets/151476286/d0f55807-781f-4161-aedf-56e6049b759b">
-
-## 4b.Simulating TRACEROUTE
 ## server
-<img width="427" alt="server" src="https://github.com/NaveenKumarV2005/4.Execution_of_NetworkCommends/assets/151476286/a9165961-9b95-4229-afd4-1eb97f5c8059">
+<img width="427" alt="server" src="https://github.com/NaveenKumarV2005/4.Execution_of_NetworkCommends/assets/151476286/224f9324-fa6d-4f11-9401-1b967a081def">
 
 ## client
-<img width="363" alt="client" src="https://github.com/NaveenKumarV2005/4.Execution_of_NetworkCommends/assets/151476286/e2544b0b-c27f-4af7-909d-2854a82796b6">
+<img width="458" alt="client" src="https://github.com/NaveenKumarV2005/4.Execution_of_NetworkCommends/assets/151476286/7ced689b-0b45-4256-9888-5594d0665388">
+
+## 4b.Simulating TRACEROUTE
+<img width="363" alt="client" src="https://github.com/NaveenKumarV2005/4.Execution_of_NetworkCommends/assets/151476286/d6a01093-450f-441f-9e47-d5cf1c7e6eb4">
 
 ## Output
 ## 4a.Simulating PING command 
-
-## 4b.Simulating TRACEROUTE
 ## server
-<img width="410" alt="outserver" src="https://github.com/NaveenKumarV2005/4.Execution_of_NetworkCommends/assets/151476286/08d82512-b6c1-4b4c-b5b1-a6f17048c8b3">
+<img width="410" alt="outserver" src="https://github.com/NaveenKumarV2005/4.Execution_of_NetworkCommends/assets/151476286/0913b03b-94cd-4f32-87d8-3cc47a9d789a">
 
 ## client
-<img width="379" alt="expclient" src="https://github.com/NaveenKumarV2005/4.Execution_of_NetworkCommends/assets/151476286/37901310-74d1-4fc3-af8a-085f406a7145">
+<img width="379" alt="expclient" src="https://github.com/NaveenKumarV2005/4.Execution_of_NetworkCommends/assets/151476286/e583d35c-90a4-4b91-b5fb-6a5d5330e1e1">
+
+## 4b.Simulating TRACEROUTE
+<img width="632" alt="out" src="https://github.com/NaveenKumarV2005/4.Execution_of_NetworkCommends/assets/151476286/93d200cc-21de-47b1-972a-617bf430a44e">
 
 ## Result
 Thus Execution of Network commands Performed 
